@@ -4,4 +4,4 @@
 
 ### List of Students
 
-  *
+  * [Xinyi Deng](https://github.com/XinyiDeng)
