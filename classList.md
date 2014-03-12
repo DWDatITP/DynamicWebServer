@@ -5,3 +5,4 @@
 ### List of Students
 
   * [Kate Godwin](https://github.com/ohmygodwin)
+  * [Leslie Lin](https://github.com/puppyyou)
