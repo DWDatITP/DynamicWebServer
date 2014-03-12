@@ -4,4 +4,4 @@
 
 ### List of Students
 
-  *
+  * [Regina Hong](https://github.com/reginahjm/)
