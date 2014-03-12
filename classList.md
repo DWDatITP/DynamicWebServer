@@ -4,4 +4,4 @@
 
 ### List of Students
 
-  *[Kate Godwin](https://github.com/ohmygodwin)
+  * [Kate Godwin](https://github.com/ohmygodwin)
