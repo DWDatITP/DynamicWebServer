@@ -4,4 +4,4 @@
 
 ### List of Students
 
-  *
+  * [Neil Solomon](http://github.com/neilyadig)
