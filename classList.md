@@ -9,3 +9,4 @@
   * [Leslie Lin](https://github.com/puppyyou)
   * [Regina Hong](https://github.com/reginahjm/)
   * [Xinyi Deng](https://github.com/XinyiDeng)
+  * [Brian Clifton](https://github.com/bclifton?tab=repositories)
