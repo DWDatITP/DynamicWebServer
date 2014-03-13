@@ -8,3 +8,4 @@
   * [Joy Li](https://github.com/JoyZL)
   * [Leslie Lin](https://github.com/puppyyou)
   * [Regina Hong](https://github.com/reginahjm/)
+  * [Xinyi Deng](https://github.com/XinyiDeng)
