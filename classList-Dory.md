@@ -8,4 +8,3 @@
 * [Aankit](https://github.com/aankit)
 * [Kate Sukpisan](https://github.com/katevisuth)
 
-

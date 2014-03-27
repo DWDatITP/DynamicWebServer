@@ -12,5 +12,5 @@
   * [Brian Clifton](https://github.com/bclifton?tab=repositories)
   * [Neil Solomon](http://github.com/neilyadig)
   * [Aankit Patel](https://github.com/aankit)
-  * [Steve Cordova] (http://github.com/cordovas)
-
+  * [Steve Cordova](http://github.com/cordovas)
+  * [Dan Melancon](http://github.com/dmelancon)
