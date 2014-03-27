@@ -4,5 +4,5 @@
 
 ### List of Students
 
-* [name](link)
+* [Aaron Arntz](http://github.com/arntzy)
 
