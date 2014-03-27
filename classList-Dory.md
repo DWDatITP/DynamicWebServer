@@ -4,5 +4,6 @@
 
 ### List of Students
 
-* [Aankit](http://help.github.com/aankit)
+* [name](link)
+* [Aankit](https://github.com/aankit)
 
