@@ -11,3 +11,5 @@
   * [Xinyi Deng](https://github.com/XinyiDeng)
   * [Brian Clifton](https://github.com/bclifton?tab=repositories)
   * [Neil Solomon](http://github.com/neilyadig)
+  * [Yu HU](http://github.com/yuhu0529)
+
