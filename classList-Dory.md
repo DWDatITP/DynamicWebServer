@@ -11,6 +11,7 @@
 * [Aaron Arntz](http://github.com/arntzy)
 * [Aankit](https://github.com/aankit)
 * [Kate Sukpisan](https://github.com/katevisuth)
+* [Laura](http://github.com/jhclaura)
 
 >>>>>>> upstream/master
 
