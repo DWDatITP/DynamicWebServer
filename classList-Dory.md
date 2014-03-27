@@ -4,5 +4,5 @@
 
 ### List of Students
 
-* [name](link)
+* [Woonyung Choi](https://github.com/Woonyung)
 
