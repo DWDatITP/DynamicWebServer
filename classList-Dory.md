@@ -10,3 +10,4 @@
 * [Adarsh Kosuru](https://github.com/adarshk)
 * [Woonyung Choi](https://github.com/Woonyung)
 * [Hanna](http://github.com/hannakmoon)
+* [Yu HU](http://github.com/yuhu0529)
