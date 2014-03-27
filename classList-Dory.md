@@ -5,5 +5,7 @@
 ### List of Students
 
 * [name](link)
-* [Adarsh Kosuru](http://github.com/adarshk)
+
+* [Aankit](https://github.com/aankit)
+* [Adarsh Kosuru](https://github.com/adarshk)
 
