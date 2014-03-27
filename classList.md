@@ -14,3 +14,4 @@
   * [Aankit Patel](https://github.com/aankit)
   * [Steve Cordova](http://github.com/cordovas)
   * [Dan Melancon](http://github.com/dmelancon)
+  * [Jason Sigal](http://github.com/therewasaguy)
