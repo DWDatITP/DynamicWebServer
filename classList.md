@@ -18,4 +18,5 @@
   * [Neil Solomon](http://github.com/neilyadigi)
   * [Jayati Ambekar](http://github.com/jay575)
   * [Yu HU](http://github.com/yuhu0529)
-  * [Eunice Kim](http://github.com/eyejes)
+  * [Eunjin Kim](http://github.com/eyejes)
+
