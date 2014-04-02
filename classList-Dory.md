@@ -16,3 +16,4 @@
 * [T.K. Broderick](https://github.com/yourfriendtk)
 * [Laura](http://github.com/jhclaura)
 * [Jaewoong Hwang](https://github.com/jaewoongh)
+* [Haylee Jung](https://github.com/hayleejung)
