@@ -1,6 +1,8 @@
 ### Teacher
 
- * [Cory Forsyth](http://github.com/bantic) | [heroku app](http://frozen-plains-7894.herokuapp.com/) | [server code](https://github.com/DWDatITP/ExampleServer)
+ * [Cory Forsyth](http://github.com/bantic)
+   * [heroku app](http://frozen-plains-7894.herokuapp.com/)
+   * [server code](https://github.com/DWDatITP/ExampleServer)
 
 ### List of Students
 
