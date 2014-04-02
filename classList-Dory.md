@@ -8,6 +8,7 @@
 * [Aankit](https://github.com/aankit)
 * [Aaron Arntz](http://github.com/arntzy)
 * [Kate Sukpisan](https://github.com/katevisuth)
+<<<<<<< HEAD
 * [Adarsh Kosuru](https://github.com/adarshk)
 * [Woonyung Choi](https://github.com/Woonyung)
 * [Hanna](http://github.com/hannakmoon)
@@ -15,3 +16,6 @@
 * [Ju Park](http://github.com/juyoungp)
 * [T.K. Broderick](https://github.com/yourfriendtk)
 * [Laura](http://github.com/jhclaura)
+=======
+* [Jaewoong Hwang](https://github.com/jaewoongh)
+>>>>>>> Added Jaewoong
