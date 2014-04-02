@@ -15,7 +15,6 @@
   * [Neil Solomon](http://github.com/neilyadig)
   * [Aankit Patel](https://github.com/aankit)
   * [Steve Cordova](http://github.com/cordovas)
-  * [Dan Melancon](http://github.com/dmelancon)
   * [Jason Sigal](http://github.com/therewasaguy)
   * [Neil Solomon](http://github.com/neilyadigi)
   * [Jayati Ambekar](http://github.com/jay575)
