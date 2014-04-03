@@ -1,5 +1,12 @@
-### Dynamic Web Server
+# Dynamic Web Server
 
-Syllabus here: [http://bit.ly/dws-syllabus](http://bit.ly/dws-syllabus)
+## Syllabus and class info
 
-[Student Project List](https://github.com/DWDatITP/DynamicWebServer/blob/master/classList.md)
+The class syllabus is here: [http://itp-dwd-2014.herokuapp.com](http://itp-dwd-2014.herokuapp.com)
+
+
+## Student project lists
+
+- [Section 1 - Cory Forsyth](https://github.com/DWDatITP/DynamicWebServer/blob/master/classList-Cory.md)
+- [Section 2 - Mike Dory](https://github.com/DWDatITP/DynamicWebServer/blob/master/classList-Dory.md)
+
