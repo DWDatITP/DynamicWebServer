@@ -6,6 +6,7 @@
 ### List of Students
 
 * [Aankit](https://github.com/aankit)
+	- [Project] (http://www.aantiks.com/2014/04/solar-server/)
 * [Aaron Arntz](http://github.com/arntzy)
 * [Kate Sukpisan](https://github.com/katevisuth)
 * [Adarsh Kosuru](https://github.com/adarshk)
