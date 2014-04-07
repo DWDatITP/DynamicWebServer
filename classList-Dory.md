@@ -18,3 +18,4 @@
 * [Jaewoong Hwang](https://github.com/jaewoongh)
 * [Dan Melancon](http://github.com/dmelancon)
 * [Haylee Jung](https://github.com/hayleejung)
+* [Jason Sigal](http://github.com/therewasaguy)
