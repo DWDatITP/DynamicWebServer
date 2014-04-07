@@ -22,4 +22,7 @@
 * [Haylee Jung](https://github.com/hayleejung)
 * [Jason Sigal](http://github.com/therewasaguy)
 * [Clara](https://github.com/CSantamaria)
+* [Jayati](http://github.com/jay575)
+	- [Project Description](http://www.jayambekar.me/blog/)
+	- [Heroku App](http://dipity.herokuapp.com/)
 
