@@ -20,4 +20,5 @@
   * [Jayati Ambekar](http://github.com/jay575)
   * [Yu HU](http://github.com/yuhu0529)
   * [Eunjin Kim](http://github.com/eyejes)
+  * [Laura Chen](http://github.com/jhclaura)
 
