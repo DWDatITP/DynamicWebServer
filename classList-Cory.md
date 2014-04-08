@@ -17,7 +17,6 @@
   * [Steve Cordova](http://github.com/cordovas)
   * [Jason Sigal](http://github.com/therewasaguy)
   * [Neil Solomon](http://github.com/neilyadigi)
-  * [Jayati Ambekar](http://github.com/jay575)
   * [Yu HU](http://github.com/yuhu0529)
   * [Eunjin Kim](http://github.com/eyejes)
   * [Laura Chen](http://github.com/jhclaura)

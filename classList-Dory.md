@@ -6,10 +6,13 @@
 ### List of Students
 
 * [Aankit](https://github.com/aankit)
+	- [Project Description](http://www.aantiks.com/2014/04/solar-server/)
+	- [Heroku App](http://solarserver.heroku.com)
 * [Aaron Arntz](http://github.com/arntzy)
 * [Kate Sukpisan](https://github.com/katevisuth)
 * [Adarsh Kosuru](https://github.com/adarshk)
-* [Woonyung Choi](https://github.com/Woonyung)
+* [Woonyung Choi](https://github.com/Woonyung/)
+	- [Project Description](http://www.woonyungchoi.com/itpblog/?p=752)
 * [Hanna](http://github.com/hannakmoon)
 * [Yu HU](http://github.com/yuhu0529/)
 * [Ju Park](http://github.com/juyoungp)
@@ -20,4 +23,7 @@
 * [Haylee Jung](https://github.com/hayleejung)
 * [Jason Sigal](http://github.com/therewasaguy)
 * [Clara](https://github.com/CSantamaria)
+* [Jayati](http://github.com/jay575)
+	- [Project Description](http://www.jayambekar.me/blog/)
+	- [Heroku App](http://dipity.herokuapp.com/)
 
