@@ -9,6 +9,8 @@
 	- [Project Description](http://www.aantiks.com/2014/04/solar-server/)
 	- [Heroku App](http://solarserver.heroku.com)
 * [Aaron Arntz](http://github.com/arntzy)
+	- [Project Description](https://github.com/arntzy/hood2coastrz)
+	- [Heroku App](http://hood2coastrz.herokuapp.com/)
 * [Kate Sukpisan](https://github.com/katevisuth)
 * [Adarsh Kosuru](https://github.com/adarshk)
 * [Woonyung Choi](https://github.com/Woonyung/)
