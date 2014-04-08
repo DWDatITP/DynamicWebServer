@@ -22,6 +22,8 @@
 * [Laura](http://github.com/jhclaura)
 * [Jaewoong Hwang](https://github.com/jaewoongh)
 * [Dan Melancon](http://github.com/dmelancon)
+	-[Project Description](https://github.com/dmelancon/DWDProject)
+	-[Heroku App](http://thawing-depths-8084.herokuapp.com/)
 * [Haylee Jung](https://github.com/hayleejung)
 * [Jason Sigal](http://github.com/therewasaguy)
 * [Clara](https://github.com/CSantamaria)
