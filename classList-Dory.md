@@ -19,6 +19,8 @@
 * [Yu HU](http://github.com/yuhu0529/)
 * [Ju Park](http://github.com/juyoungp)
 * [T.K. Broderick](https://github.com/yourfriendtk)
+ 	-[Project Description](http://yourfriendtk.wordpress.com/category/dwd-server/)
+	-[Heroku App](http://web-audio-sandbox.herokuapp.com/)
 * [Laura](http://github.com/jhclaura)
 * [Jaewoong Hwang](https://github.com/jaewoongh)
 * [Dan Melancon](http://github.com/dmelancon)
