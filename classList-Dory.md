@@ -12,6 +12,7 @@
 	- [Project Description](https://github.com/arntzy/hood2coastrz)
 	- [Heroku App](http://hood2coastrz.herokuapp.com/)
 * [Kate Sukpisan](https://github.com/katevisuth)
+	- [Project Description](http://www.katevisuth.net/project-idea/)
 * [Adarsh Kosuru](https://github.com/adarshk)
 * [Woonyung Choi](https://github.com/Woonyung/)
 	- [Project Description](http://www.woonyungchoi.com/itpblog/?p=752)
