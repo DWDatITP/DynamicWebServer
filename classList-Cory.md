@@ -8,6 +8,7 @@
 
   * [Kate Godwin](https://github.com/ohmygodwin)
     * [field guide of fungi crafts](http://serene-beyond-1248.herokuapp.com/)
+    * [blog post describing project, screens of proposed site](http://make.kategodwin.com/post/82158995243/field-guide-of-fungi-crafts-i-have-had-a-lot-of)
     * [code](https://github.com/ohmygodwin/dwd-server)
   * [Joy Li](https://github.com/JoyZL)
   * [Leslie Lin](https://github.com/puppyyou)
