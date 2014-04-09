@@ -11,6 +11,7 @@
     * [blog post describing project, screens of proposed site](http://make.kategodwin.com/post/82158995243/field-guide-of-fungi-crafts-i-have-had-a-lot-of)
     * [code](https://github.com/ohmygodwin/dwd-server)
   * [Joy Li](https://github.com/JoyZL)
+    * [heroku app](http://joylidwdproject.herokuapp.com/)
   * [Leslie Lin](https://github.com/puppyyou)
   * [Regina Hong](https://github.com/reginahjm/)
   * [Xinyi Deng](https://github.com/XinyiDeng)
