@@ -17,6 +17,7 @@
   * [Xinyi Deng](https://github.com/XinyiDeng)
   * [Brian Clifton](https://github.com/bclifton?tab=repositories)
   * [Neil Solomon](http://github.com/neilyadig)
+    * [heroku app](http://vast-coast-8900.herokuapp.com/) 
   * [Aankit Patel](https://github.com/aankit)
   * [Steve Cordova](http://github.com/cordovas)
   * [Jason Sigal](http://github.com/therewasaguy)
