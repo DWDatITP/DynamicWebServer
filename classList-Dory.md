@@ -29,6 +29,8 @@
 	-[Heroku App](http://thawing-depths-8084.herokuapp.com/)
 * [Haylee Jung](https://github.com/hayleejung)
 * [Jason Sigal](http://github.com/therewasaguy)
+	-[Heroku App](http://collabora.herokuapp.com/)
+	-[Project Description](http://www.itp.jasonsigal.cc/dwd-project-description/)
 * [Clara](https://github.com/CSantamaria)
 * [Jayati](http://github.com/jay575)
 	- [Project Description](http://www.jayambekar.me/blog/)
