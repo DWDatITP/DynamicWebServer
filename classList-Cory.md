@@ -7,6 +7,8 @@
 ### List of Students
 
   * [Kate Godwin](https://github.com/ohmygodwin)
+    * [field guide of fungi crafts](http://serene-beyond-1248.herokuapp.com/)
+    * [code](https://github.com/ohmygodwin/dwd-server)
   * [Joy Li](https://github.com/JoyZL)
   * [Leslie Lin](https://github.com/puppyyou)
   * [Regina Hong](https://github.com/reginahjm/)
