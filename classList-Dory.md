@@ -32,6 +32,7 @@
 	- [Project Description](https://github.com/dmelancon/DWDProject)
 	- [Heroku App](http://thawing-depths-8084.herokuapp.com/)
 * [Haylee Jung](https://github.com/hayleejung)
+	- [Project Description] (http://hayleejung.byethost13.com/?p=319)
 * [Jason Sigal](http://github.com/therewasaguy)
 	- [Heroku App](http://collabora.herokuapp.com/)
 	- [Project Description](http://www.itp.jasonsigal.cc/dwd-project-description/)
