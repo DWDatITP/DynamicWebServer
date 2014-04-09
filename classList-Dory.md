@@ -26,6 +26,8 @@
 	- [Heroku App](http://web-audio-sandbox.herokuapp.com/)
 * [Laura](http://github.com/jhclaura)
 * [Jaewoong Hwang](https://github.com/jaewoongh)
+	- [Project Description](http://pvector.com/itpblog/?p=497)
+	- [Heroku App](http://murmuring-depths.herokuapp.com/)
 * [Dan Melancon](http://github.com/dmelancon)
 	- [Project Description](https://github.com/dmelancon/DWDProject)
 	- [Heroku App](http://thawing-depths-8084.herokuapp.com/)
