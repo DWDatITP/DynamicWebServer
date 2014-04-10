@@ -20,7 +20,7 @@
 * [Yu HU](http://github.com/yuhu0529/)
     - [Project idea](http://www.yuhu2015itper.com/an-app-for-server-mobile/)
     - [npm module](http://www.yuhu2015itper.com/final-project-an-npm-module/)
-    - [Heroku](http://hidden-wave-3486.herokuapp.com/)
+    - [Heroku web](http://hidden-wave-3486.herokuapp.com/)
 * [Ju Park](http://github.com/juyoungp)
 	- [Project Description](http://itp.nyu.edu/~jyp323/ju/?p=359)
 	- [Heroku App](http://glacial-everglades-9147.herokuapp.com/)
