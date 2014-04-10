@@ -14,6 +14,7 @@
     * [heroku app](http://joylidwdproject.herokuapp.com/)
   * [Leslie Lin](https://github.com/puppyyou)
   * [Regina Hong](https://github.com/reginahjm/)
+    *  [Regina Hong](https://github.com/reginahjm/regina_DWD/)
   * [Xinyi Deng](https://github.com/XinyiDeng)
   * [Brian Clifton](https://github.com/bclifton?tab=repositories)
     * [heroku app](http://protected-harbor-8151.herokuapp.com/) 
