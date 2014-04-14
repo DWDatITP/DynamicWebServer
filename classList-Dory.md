@@ -14,6 +14,8 @@
 * [Kate Sukpisan](https://github.com/katevisuth)
 	- [Project Description](http://www.katevisuth.net/project-idea/)
 * [Adarsh Kosuru](https://github.com/adarshk)
+	- [Heroku App](http://evening-wave-1710.herokuapp.com/)
+	- [Project Description](http://adarshk.com/itp/DynamicWebWeek1/)
 * [Woonyung Choi](https://github.com/Woonyung/)
 	- [Project Description](http://www.woonyungchoi.com/itpblog/?p=752)
 	- [Heroku App](http://boiling-brook-8463.herokuapp.com/)
