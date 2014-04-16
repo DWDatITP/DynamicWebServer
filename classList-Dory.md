@@ -13,6 +13,8 @@
 	- [Heroku App](http://hood2coastrz.herokuapp.com/)
 * [Kate Sukpisan](https://github.com/katevisuth)
 	- [Project Description](http://www.katevisuth.net/project-idea/)
+	- [Heroku App](http://fierce-harbor-1443.herokuapp.com/)
+	- [Heroku App (express)](http://radiant-citadel-1064.herokuapp.com/)
 * [Adarsh Kosuru](https://github.com/adarshk)
 * [Woonyung Choi](https://github.com/Woonyung/)
 	- [Project Description](http://www.woonyungchoi.com/itpblog/?p=752)
