@@ -13,6 +13,7 @@
 	- [Heroku App](http://hood2coastrz.herokuapp.com/)
 * [Kate Sukpisan](https://github.com/katevisuth)
 	- [Project Description](http://www.katevisuth.net/project-idea/)
+	- [Heroku App](http://fierce-harbor-1443.herokuapp.com/)
 * [Adarsh Kosuru](https://github.com/adarshk)
 	- [Heroku App](http://evening-wave-1710.herokuapp.com/)
 	- [Project Description](http://adarshk.com/itp/DynamicWebWeek1/)
