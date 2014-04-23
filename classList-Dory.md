@@ -31,6 +31,7 @@
 * [Ju Park](http://github.com/juyoungp)
 	- [Project Description](http://itp.nyu.edu/~jyp323/ju/?p=359)
 	- [Heroku App](http://glacial-everglades-9147.herokuapp.com/)
+	- [Heroku Express](http://thawing-harbor-8539.herokuapp.com/)
 * [T.K. Broderick](https://github.com/yourfriendtk)
  	- [Project Description](http://yourfriendtk.wordpress.com/category/dwd-server/)
 	- [Heroku App](http://web-audio-sandbox.herokuapp.com/)
