@@ -23,3 +23,4 @@
   * [Yu HU](http://github.com/yuhu0529)
   * [Eunjin Kim](http://github.com/eyejes)
   * [Seiya Kobayashi](http://github.com/seiyable)
+  * [Kyle K](https://github.com/KyleK12/sourcedstarter)
