@@ -16,6 +16,7 @@
   * [Regina Hong](https://github.com/reginahjm/)
     *  [Regina Hong](https://github.com/reginahjm/regina_DWD/)
   * [Xinyi Deng](https://github.com/XinyiDeng)
+    * [ToDoList](https://github.com/XinyiDeng/DWD-Server/tree/master/todolists)
   * [Brian Clifton](https://github.com/bclifton?tab=repositories)
     * [heroku app](http://protected-harbor-8151.herokuapp.com/) 
   * [Neil Solomon](http://github.com/neilyadig)
