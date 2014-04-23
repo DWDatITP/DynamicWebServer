@@ -21,7 +21,7 @@
     * [heroku app](http://protected-harbor-8151.herokuapp.com/) 
   * [Neil Solomon](http://github.com/neilyadig)
     * [heroku app](http://vast-coast-8900.herokuapp.com/) 
-  * [Yu HU](http://github.com/yuhu0529)
+  * [Bing Huang](http://github.com/bingiology)
   * [Eunjin Kim](http://github.com/eyejes)
   * [Seiya Kobayashi](http://github.com/seiyable)
   * [Kyle K](https://github.com/KyleK12/sourcedstarter)
