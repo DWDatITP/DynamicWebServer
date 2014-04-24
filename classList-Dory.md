@@ -34,7 +34,7 @@
 	- [Heroku Express](http://thawing-harbor-8539.herokuapp.com/)
 * [T.K. Broderick](https://github.com/yourfriendtk)
  	- [Project Description](http://yourfriendtk.wordpress.com/category/dwd-server/)
-	- [Heroku App](http://web-audio-sandbox.herokuapp.com/)
+	- [Heroku App](http://http://oscillator-art.herokuapp.com/)
 * [Laura](http://github.com/jhclaura)
 * [Jaewoong Hwang](https://github.com/jaewoongh)
 	- [Project Description](http://pvector.com/itpblog/?p=497)
