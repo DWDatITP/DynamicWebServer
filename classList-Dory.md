@@ -23,7 +23,7 @@
 	- [Heroku App](http://boiling-brook-8463.herokuapp.com/)
 * [Hanna](http://github.com/hannakmoon)
 	- [Project Description](http://itp.nyu.edu/~hm1109/blog/2014/04/09/dwd-server-final-project/)
-	- [Heroku App](http://salty-tor-5462.herokuapp.com/)
+	- [Heroku App](http://share-my-breakfast.herokuapp.com/)
 * [Yu HU](http://github.com/yuhu0529/)
     - [Project idea](http://www.yuhu2015itper.com/an-app-for-server-mobile/)
     - [npm module](http://www.yuhu2015itper.com/final-project-an-npm-module/)
