@@ -45,7 +45,7 @@
 * [Haylee Jung](https://github.com/hayleejung)
 	- [Project Description](http://hayleejung.byethost13.com/?p=319)
 * [Jason Sigal](http://github.com/therewasaguy)
-	- [Heroku App](http://collabora2.herokuapp.com/)
+	- [Heroku App](http://chaosforum.herokuapp.com/)
 	- [Project Description](http://www.itp.jasonsigal.cc/dwd-project-description/)
 	- [GitHub](https://github.com/therewasaguy/chaos-forum)
 * [Clara](https://github.com/CSantamaria)
