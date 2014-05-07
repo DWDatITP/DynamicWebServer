@@ -13,7 +13,7 @@
   * [Joy Li](https://github.com/JoyZL)
     * [heroku app](http://joylidwdproject.herokuapp.com/)
     * [Express version code](https://github.com/JoyZL/DWDproject)
-  * [Regina Hong](https://github.com/reginahjm/)
+  * [Regina Hong](http://shrouded-shelf-3035.herokuapp.com/)
     *  [Regina Hong](https://github.com/reginahjm/regina_DWD/)
   * [Xinyi Deng](https://github.com/XinyiDeng)
     * [ToDoList](https://github.com/XinyiDeng/DWD-Server/tree/master/todolists)
