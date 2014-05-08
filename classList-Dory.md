@@ -15,6 +15,7 @@
 	- [Project Description](http://www.katevisuth.net/project-idea/)
 	- [Heroku App](http://fierce-harbor-1443.herokuapp.com/)
 	- [Heroku App (express)](http://radiant-citadel-1064.herokuapp.com/)
+	- [Final Project](http://http://artchannel.herokuapp.com//)
 * [Adarsh Kosuru](https://github.com/adarshk)
 	- [Heroku App](http://evening-wave-1710.herokuapp.com/)
 	- [Project Description](http://adarshk.com/itp/DynamicWebWeek1/)
